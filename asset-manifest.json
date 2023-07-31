@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Regexp/static/css/main.80a01e5c.css",
+    "main.js": "/Regexp/static/js/main.ec6c8519.js",
+    "static/media/email.png": "/Regexp/static/media/email.d706f7e7d1c115fdae3c.png",
+    "static/media/user.png": "/Regexp/static/media/user.c920752422c11377083e.png",
+    "index.html": "/Regexp/index.html",
+    "main.80a01e5c.css.map": "/Regexp/static/css/main.80a01e5c.css.map",
+    "main.ec6c8519.js.map": "/Regexp/static/js/main.ec6c8519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a01e5c.css",
+    "static/js/main.ec6c8519.js"
+  ]
+}
